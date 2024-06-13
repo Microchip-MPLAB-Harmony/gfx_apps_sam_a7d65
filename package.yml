@@ -1,12 +1,11 @@
 package:
   format-version: "1.0.0"
-  name: "replaceme"
+  name: "gfx_apps_sam_a7d65"
+  version: "v1.0.0"
   type: "application"
-  status: "beta"
-  required: false
-  version: "1.0.0"
+  status: "production"
 
   dependencies:
-    - name: "csp"
+    - name: "gfx"
       type: "package"
-      version: "3.14.0"
+      version: "v3.15.1"
