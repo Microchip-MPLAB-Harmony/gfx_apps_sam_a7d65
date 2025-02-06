@@ -4,17 +4,25 @@ has_children: true
 has_toc: false
 nav_order: 2
 
-family: SAMA7D65
+family: SAMA7D
 market:
   - graphics
 ---
 
 # Example Applications
 
-The following applications are provided to demonstrate both basic and advanced Graphics capabilities of the SAM A7D65 Family.
+**NOTE:** The blank examples published in this repository are intended for engineering display bring-up only.
 
-## Legato Library Examples 
+For feature-rich, professional Microchip Graphics Suite demonstrations and demonstrations from third-party graphics libaries, refer to user guides on [Microchip Developer Help](https://developerhelp.microchip.com/xwiki/bin/view/software-tools/mgs/dev-kits/) or browse on [MPLAB® Discover](https://mplab-discover.microchip.com/v2?dsl=Microchip+AND+Graphics+AND+Suite+AND+A7D).
 
-* [Legato Quickstart](./legato_quickstart/readme.md)
 
-This demonstration provides a touch-enabled starting point for the legato graphics library.
+## Blank Examples
+
+
+* [Blank Quickstart](./blank_quickstart/readme.md)
+
+This demonstration provides a touch-enabled test pattern to validate the graphics subsystem.
+
+![](./../images/blank_qs.jpg)
+
+

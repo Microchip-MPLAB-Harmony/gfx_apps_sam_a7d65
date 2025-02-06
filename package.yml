@@ -1,11 +1,11 @@
 package:
   format-version: "1.0.0"
   name: "gfx_apps_sam_a7d65"
-  version: "v1.0.0"
+  version: "v1.1.0"
   type: "application"
   status: "production"
 
   dependencies:
     - name: "gfx"
       type: "package"
-      version: "v3.15.1"
+      version: "v3.16.0"
